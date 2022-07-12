@@ -22,3 +22,16 @@ microcontroller directly from PC.
 10. SST software on PC.
 11. 10 pin FRCs.
 12. USB cable.
+13. ## SETTING FOR 8051 DEVELOPMENT BOARD (DVK) :
+14. Connect the 12V power supply to the Kit.
+15. Switch on the board.
+16. To fit the MAX232 & CH340T module on board.
+17. Connect USB A-B cable to the board and PC.
+18. Open SST software on PC
+19. Select the com port 
+20. Select the IC (89E51RD2).
+21. Download the HEX file.
+22. Connect 10 pin FRCs
+23. Jumpers Settings on board.
+24. JP1, JP9, JP10, P1, P0 – 1& 2 short.
+
