@@ -15,5 +15,10 @@ microcontroller directly from PC.
 3. Flash EPROM for downloading hex files via UART
 4. All ports pins brought on 10 PIN FRC (User selection is possible)
 5. Supplied with companion CD includes working sample programs, ISP programming 
-6. Software, Assembler, disassembles, +12 V supply, USB cable and quick start manual
-
+6. Software, Assembler, disassembles, +12 V supply, USB cable and quick start manual.
+7. ## System Requirement.
+8. 12V Power Supply.
+9. 8051 DVK Board.
+10. SST software on PC.
+11. 10 pin FRCs.
+12. USB cable.
